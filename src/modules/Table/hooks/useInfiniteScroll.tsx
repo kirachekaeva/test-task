@@ -1,4 +1,3 @@
-// hooks/useInfiniteLoader.ts
 import { StoreContext } from '@/app/provider/StoreProvider';
 import { useEffect, useState, useCallback, useContext } from 'react';
 

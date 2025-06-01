@@ -12,3 +12,9 @@
     justify-content: center;
     gap: 20px;
 }
+
+.table__header{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}

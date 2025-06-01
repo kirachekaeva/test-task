@@ -1,0 +1,14 @@
+.table__container{
+    display: flex;
+    flex-direction: column;
+    padding: 30px 15px 30px;
+    height: 100%;
+}
+
+.table__content{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
